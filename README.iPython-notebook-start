@@ -1,0 +1,1 @@
+ipython3 notebook --ipython-dir=./ipython/ --profile=default
