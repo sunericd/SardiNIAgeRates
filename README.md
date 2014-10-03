@@ -1,6 +1,6 @@
 SardiNIAgeRates
 ===============
-#####This is a collection of [ipython notebooks](http://ipython.org/index.html) and some results for analyzing aging rates in the [SardiNIA](https://sardinia.irp.nia.nih.gov/) project
+#####This is a collection of [ipython notebooks](http://ipython.org/notebook.html) and some results for analyzing aging rates in the [SardiNIA](https://sardinia.irp.nia.nih.gov/) project
 
 You will need to install ipython notebook to use these interactively:
 
