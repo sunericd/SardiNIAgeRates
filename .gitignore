@@ -10,6 +10,7 @@ data/*
 
 # Ignore .py versions of the .ipynb notebooks
 ##############
+Functions.py
 Pt??-*.py
 
 # Python build directories #
