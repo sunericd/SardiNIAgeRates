@@ -27,6 +27,7 @@ config.log
 config.status
 libtool
 stamp-h1
+__pycache__/
 
 
 # Compiled source #
