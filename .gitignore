@@ -10,7 +10,7 @@ data/*
 
 # Ignore .py versions of the .ipynb notebooks
 ##############
-Functions.py
+# Functions.py ## Need this for running the functions
 Functions-tests.py
 Pt??-*.py
 
