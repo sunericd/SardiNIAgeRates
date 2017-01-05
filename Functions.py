@@ -5,12 +5,6 @@
 
 # This is the main code notebook with the functions that are called upon by other notebooks for investigative purposes. It includes the "big bad" function that calculates biological ages (scroll down a bit).
 
-# In[1]:
-
-# Writes a Function.py script to be imported
-ipython notebook --script
-
-
 # In[ ]:
 
 # Imports packages and functions (Pandas, NumPy, PyLab, SciPy, Scikit-Learn)
